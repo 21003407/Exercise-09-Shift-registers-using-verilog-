@@ -106,8 +106,8 @@ endmodule
 ### PROGRAM 2
 ```
 Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: EASWAR17
-RegisterNumber:  212221230024
+Developed by: A joans jay authers
+RegisterNumber:  212221240019
 
 module piro(c,pi,so,load);
 input [3:0] pi;
